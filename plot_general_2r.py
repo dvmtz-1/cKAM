@@ -1,5 +1,5 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
-# Plot from 'general_2r.py'
+# Script to plot data from 'general_2r.py'
 # [Implementation of converse KAM result (MacKay'18) to an integrable
 # magnetic field example: axisymmetrical magnetic field perturbed with
 # 2 helical mode (Kallinikos'14).]

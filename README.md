@@ -14,6 +14,7 @@ There are three versions:
 Codes 1 and 2, consider the integration of a regular grid of initial conditions on the YZ-plane for the given magnetic field. Y and Z here correspond to the
 symplectic polar coordinates: (\tilde{y},\tilde{z}) = (\sqrt{2ψ/B0} cos\vartheta, \sqrt{2ψ/B0} sin\vartheta). The codes discriminate when the initial does 
 not correspond to a flux surface of the same class as the ones present in the unperturbed case (which corresponds to concentric circles around the origin). 
+
 Code 3 does the same identification for initial conditions taken over the symmetric semi-lines θ = 0 and θ = π on the plane X = 0 (i.e. \tilde{z} = 0). 
 
 Notes: 

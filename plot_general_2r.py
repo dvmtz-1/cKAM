@@ -1,12 +1,17 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Script to plot data from 'general_2r.py'
-# [Implementation of converse KAM result (MacKay'18) to an integrable
+# [Implementation of converse KAM result (MacKay'18) to a near-integrable
 # magnetic field example: axisymmetrical magnetic field perturbed with
 # 2 helical mode (Kallinikos'14).]
 # 
 # # # # # # # # # # # # # # # # # # # # 
 # Inputs:  'ini_2r.txt' - Parameter file
 #          "gRN2r_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
+#
+# # # # # # # # # # # # # # # # # # # #
+# Authors: Nikos Kallinikos (U.Warwick, U. W.Macedonia, Int Hellenic U.)
+#          David Martinez del Rio (U.Warwick)
+#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import matplotlib as mpl
 import matplotlib.pyplot as plt

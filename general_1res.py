@@ -6,6 +6,11 @@
 # # # # # # # # # # # # # # # # # # # # 
 # Input:  'ini.txt' - Parameter file
 # Output: "gRN_{orbits}_{tf}_{epx}_{m}_{n}.txt"
+# 
+# # # # # # # # # # # # # # # # # # # #
+# Authors: Nikos Kallinikos (U.Warwick, U. W.Macedonia, Int Hellenic U.)
+#          David Martinez del Rio (U.Warwick)
+#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import matplotlib.pyplot as plt
 import numpy as np

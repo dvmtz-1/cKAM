@@ -1,11 +1,16 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-# Implementation of converse KAM result (MacKay'18) to an integrable
+# Implementation of converse KAM result (MacKay'18) to an near-integrable
 # magnetic field example: axisymmetrical magnetic field perturbed with
 # 2 helical mode (Kallinikos'14).
 # 
 # # # # # # # # # # # # # # # # # # # # 
 # Input:  'ini_2r.txt' - Parameter file
 # Output: "gRN2r_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
+#
+# # # # # # # # # # # # # # # # # # # #
+# Authors: Nikos Kallinikos (U.Warwick, U. W.Macedonia, Int Hellenic U.)
+#          David Martinez del Rio (U.Warwick)
+#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import matplotlib.pyplot as plt
 import numpy as np

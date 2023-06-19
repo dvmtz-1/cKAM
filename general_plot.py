@@ -1,5 +1,5 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-# Script to plot data from 'general_1res.py'
+# Script to plot from 'general_1res.py'
 # [Implementation of converse KAM result (MacKay'18) to an integrable
 # magnetic field example: axisymmetrical magnetic field perturbed with
 # 1 helical mode (Kallinikos'14).]
@@ -7,6 +7,11 @@
 # # # # # # # # # # # # # # # # # # # # 
 # Inputs:  'ini.txt' - Parameter file
 #          'gRN_{orbits}_{tf}_{epx}_{m}_{n}.txt'
+#
+# # # # # # # # # # # # # # # # # # # #
+# Authors: Nikos Kallinikos (U.Warwick, U. W.Macedonia, Int Hellenic U.)
+#          David Martinez del Rio (U.Warwick)
+#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import matplotlib
 import matplotlib.pyplot as plt

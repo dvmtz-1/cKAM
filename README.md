@@ -1,6 +1,6 @@
 # cKAM
 
-Codes implementing converse KAM results (MacKay'18▯) to near-integrable examples of axisymmetric magnetic fields perturbed by helical one or two terms (Kallinikos et. al 2014◧).
+Codes implementing converse KAM results (MacKay'18◭) to near-integrable examples of axisymmetric magnetic fields perturbed by helical one or two terms (Kallinikos et. al 2014◧).
 Details can be found in https://arxiv.org/abs/2304.09613 .
 
 
@@ -26,7 +26,7 @@ Notes:
 
 References
 
-▯ R.S. MacKay. “Finding the complement of the invariant manifolds transverse to a
+◭ R.S. MacKay. “Finding the complement of the invariant manifolds transverse to a
 given foliation for a 3D flow”. Regular and Chaotic Dynamics 23(8), 2018.
 
 ◧ N. Kallinikos, H. Isliker, L. Vlahos, E. Meletlidou. “Integrable perturbed magnetic

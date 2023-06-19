@@ -7,6 +7,11 @@
 # Input:  'ini_sym.txt' - Parameter file
 # Output: "sym5_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
 #         or "sym5_{orbits}_{tf}_{e1}_{m1}_{n1}.txt" if e2==0.
+#
+# # # # # # # # # # # # # # # # # # # #
+# Authors: Nikos Kallinikos (U.Warwick, U. W.Macedonia, Int Hellenic U.)
+#          David Martinez del Rio (U.Warwick)
+#
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import matplotlib.pyplot as plt
 import numpy as np

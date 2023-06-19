@@ -1,5 +1,5 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # 
-# Implementation of converse KAM result (MacKay'18) to an near-integrable
+# Implementation of converse KAM result (MacKay'18) to a near-integrable
 # magnetic field example: axisymmetrical magnetic field perturbed with
 # 2 helical mode (Kallinikos'14).
 # 

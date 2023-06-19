@@ -1,6 +1,7 @@
 # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
 # Script to compute the Poincare Section from the discriminated data
 # from 'symmetrical.py'.
+#
 # [Implementation of converse KAM result (MacKay'18) using a symmetry
 # to an near-integrable magnetic field example: axisymmetrical magnetic
 # field perturbed with 2 helical mode (Kallinikos'14).]
@@ -8,13 +9,15 @@
 # # # # # # # # # # # # # # # # # # # # 
 # Inputs:  'ini_sym.txt' - Parameter file
 #
-#          "sym5_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
-#            (or "sym5_{orbits}_{tf}_{e1}_{m1}_{n1}.txt" if e2==0)
+#          "sym5_{orbits}_{tf}_{e1}_{m1}_{n1}.txt"   --(if e2==0)
+#      or  "sym5_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
 #
-# Output: "sym5S_{orbits}_{tf}_{e1}_{m1}_{n1}.txt"   - (if e2==0)
-#         "sym5S_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
-#         
-# # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # # #
+# Output: "sym5S_{orbits}_{tf}_{e1}_{m1}_{n1}.txt"   --(if e2==0)
+#      or "sym5S_{orbits}_{tf}_{e1}_{m1}_{n1}_{e2}_{m2}_{n2}.txt"
+#
+# # # # # # # # # # # # # # # # # # # #
+# Authors: Nikos Kallinikos (U.Warwick, U. W.Macedonia, Int Hellenic U.)
+#          David Martinez del Rio (U.Warwick)
 #
 # MODULES used  # # # # # # # # # # # # # # # # # # # # # # # # # # #
 import numpy as np

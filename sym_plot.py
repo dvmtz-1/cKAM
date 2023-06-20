@@ -72,7 +72,7 @@ ep2 = epstr2(eps2) # epsilon 2 string name for file
 
 ## OPENS FILE - - - - - - - - - - - - - - - - - - - ##
 ### CHOOSE FILE TO PLOT ###
-#method = 'sym5' # Plot exist file from 'sym.py'
+#method = 'sym5' # Plot exist file from 'symmetrical.py'
 method = 'sym5S' # Plot Poincare Section from 'sym_Psec.py'
 
 if eps2 == 0 :

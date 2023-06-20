@@ -22,8 +22,8 @@ Notes:
 - The plot coordinates used by these scripts correspond to symplectic polar: (\tilde{y},\tilde{z}) = (\sqrt{2ψ/B0} cos\vartheta, \sqrt{2ψ/B0} sin\vartheta).
 - A script to compute the Poincare section of the initial conditions used for case 3 is included, 'sym_Psec.py'. 
 - The script 'sym_plot.py' can be used to plot either the orignal output of 3 or the Poincase section from 'sym_Psec.py'.
-- The definition of the symplectic polar coordinates puts the magnetic axis to the origin. In the original toroidal coordinates, it corresponds to r = 0 (i.e. R=R0) or in
-   cartesian coordinates (x,y,z=0) with x^2 + y^2 = R0^2.
+- The definition of the symplectic polar coordinates puts the magnetic axis to the origin for the plots. In the original toroidal coordinates, it corresponds to r = 0 (i.e. R=R0)
+  or in cartesian coordinates (x,y,z=0) with x^2 + y^2 = R0^2.
 
 
 
